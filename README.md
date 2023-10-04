@@ -6,3 +6,5 @@
 
 ## Liste des notebooks pour les TDs/TPs:
 * TD1_PEP8.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/TPs_TDs/TD1_PEP8.ipynb)
+* TD2_OOP_part1.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/TPs_TDs/TD2_OOP_part1.ipynb)
+
