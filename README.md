@@ -11,3 +11,4 @@
 
 ## Liste des notebooks pour les tests:
 * test_progression_1.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/Tests/test_progression_1.ipynb)
+* Exemple d'examen écrit: exam_written_example.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/Tests/exam_written_example.ipynb)
