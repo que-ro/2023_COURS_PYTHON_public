@@ -18,3 +18,5 @@
 * test_progression_1.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/Tests/test_progression_1.ipynb)
 * Exemple d'examen écrit: exam_written_example.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/Tests/exam_written_example.ipynb)
 * Examen 1 avec solutuons: exam1_with_solution.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/Tests/exam1_with_solution.ipynb)
+* Examen 2: exam1_with_solution.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/Tests/exam2_wo_solution.ipynb)
+
