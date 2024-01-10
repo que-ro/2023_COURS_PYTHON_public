@@ -24,4 +24,5 @@
 * Examen 2: exam2_wo_solution.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/Tests/exam2_wo_solution.ipynb)
 * * Examen 2: exam2_with_solution.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/Tests/exam2_with_solution.ipynb)
 * Examen 3: exam3_wo_solution.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/Tests/exam3_wo_solution.ipynb)
+* * Examen 3 corrigé: exam3_with_solutions.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/que-ro/2023_COURS_PYTHON_public/blob/main/Tests/exam3_with_solutions.ipynb)
 
